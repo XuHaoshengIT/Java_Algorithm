@@ -9,5 +9,6 @@ public class RunFunc {
         int num = cin.nextInt();
 
         System.out.println(Reverse.reverse(num));
+        cin.close();
     }
 }
